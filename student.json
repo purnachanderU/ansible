@@ -1,0 +1,24 @@
+{
+    "firstName": "Poornachander Uppula",
+    "lastName": "Uppula",
+    "dob": "01-01-01",
+    "addresses": [
+        {
+            "type": "permanent",
+            "doorNo": "1-566",
+            "streetName": "KPHP Indra Nagar",
+            "city": "Hyderabad"
+        },
+        {
+            "type": "temporary",
+            "doorNo": "1-566",
+            "streetName": "KPHP Indra Nagar",
+            "city": "Hyderabad"
+        }
+    ],
+    "skills": {
+        "OS": "Linux",
+        "IDE": "VsCode",
+        "CM": "ansible"
+    }
+}
